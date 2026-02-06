@@ -2,6 +2,6 @@ when when was last meal
 how much did they eat
 did any exercise before 
 
-if the user has not eaten in more than 8 hours tell then user "You need to eat"
+if the user has not eaten in more than 8 hours tell the user "You need to eat"
 if the user ate too little tell the user "You really should get something to eat."
 if the user did any sort of exercise between last meal then tell user "Eating is a neccesity at this point"
